@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
 识别结果
 
-![](https://github.com/LoseNine/12306-Captcha/blob/master/img/1.png)
+![](https://github.com/LoseNine/12306-Captcha/blob/master/img/1.PNG)
 
 
 
